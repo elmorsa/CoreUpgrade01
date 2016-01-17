@@ -1,0 +1,187 @@
+body
+{
+	width: 90%;
+	text-align: center;
+}
+
+#Header {
+	text-align: center;
+	background-color: #666633;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;
+}
+
+#Nav {
+	width: 20%;
+	background-color: #CCCC99;
+	border-radius: 10px;
+	padding: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	float: left;
+	position: relative;
+	
+}
+
+#Main {
+	width: 70%;
+	text-align: left;
+	background-color: #CCCC99;
+	border-radius: 10px;
+	padding: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	float: right;
+	position: relative;
+
+}
+
+
+#Footer {
+	text-align: center;
+	background-color: #990033;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;
+	clear: both;
+	
+}
+
+P {
+	color: white;
+	font-family: Arial, Verdana, Helvetica;
+} 
+
+
+#Article {
+	margin: auto;
+	width: 96%;
+	padding: 5px;
+	background-color: white;
+	border-radius: 10px;
+	float: center;
+	position: relative;
+	margin-bottom: 10px;
+}
+
+#Article-Header {
+	margin: auto;
+	margin-top: 10px;
+	width: 96%;
+	background-color: black;
+	float: center;
+	position: relative;
+	padding: 5px;
+	border-radius: 5px;
+	margin-bottom: 5px;
+}
+
+#Comentario
+{
+	margin: auto;
+	width: 96%;
+	background-color: #666633;
+	padding: 5px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+
+H1.title {
+	font-family: Arial,Verdana,Helvetica;
+	font-size: 30px;
+	color: white;
+	text-decoration: bold;
+}
+
+H2.title {
+	font-family: Arial,Verdana,Helvetica;
+	font-size: 24px;
+	color: white;
+	text-decoration: bold;
+}
+
+H2.Article-Header {
+	font-size: 16px;
+	font-family: Arial,Verdana,Helvetica;
+	color: white;	
+}
+
+H3.Time
+{
+	font-size: 14px;
+	font-family: Arial,Verdana,Helvetica;
+	color: white;
+}
+
+H3.Comment { 
+	font-size: 14px;
+	font-family: Arial,Verdana,Helvetica;
+	color: white;}
+
+H3.Nav {
+	color: white;
+	text-decoration: bold;
+	font-size: 14px;
+	font-family: Arial,Verdana,Helvetica;
+	text-align: center;
+}
+
+p.article
+
+{
+	margin: auto;
+	margin-bottom: 5px;
+	width: 96%;
+	font-size: 12px;
+	font-family: Arial,Verdana,Helvetica;
+	color: black;
+}
+
+p.Tags
+
+{
+	margin: auto;
+	width: 96%;
+	font-size: 14px;
+	font-family: Arial,Verdana,Helvetica;
+	color: #990033;
+	margin-bottom: 5px;
+}
+
+
+
+p.Comment
+
+{
+	margin: auto;
+	margin-bottom: 5px;
+	width: 96%;
+	font-size: 12px;
+	font-family: Arial,Verdana,Helvetica;
+	color: white;
+	margin-bottom: 10px;
+}
+
+Input.Comentar
+
+{
+	margin-bottom: 10px;	
+}
+
+Ul.Nav {
+	color: white;
+	font-size: 12px;
+	font-family: Arial,Verdana,Helvetica;
+	text-align: left;
+	list-style-type: circle;
+	padding: 15px;
+}
+
+A.Nav {
+	text-decoration: none;
+	color: #990033;
+	font-family: Arial,Verdana,Helvetica;
+	font-size: 12px;
+}
+
